@@ -1,0 +1,8 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "CameraExample",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {}
+}
